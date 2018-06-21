@@ -1,0 +1,5 @@
+remote name for heroku - origins
+git - origin
+
+heroku run --remote origins
+git push -u origins
